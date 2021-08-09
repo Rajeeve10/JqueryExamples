@@ -1,0 +1,36 @@
+table.TableAddDelete{
+	width: 100%;
+	border-collapse: collapse;
+	margin-top:20px;
+}
+table.TableAddDelete th, table.TableAddDelete td{
+	border: 1px solid #cdcdcd;
+	padding: 7px;
+}
+
+.btndeleterowadded {
+	background-color: #f44336;
+	border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	} 
+
+	.btnEdit
+	{
+		background-color: #4CAF50;;
+	border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	}
